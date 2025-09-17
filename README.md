@@ -25,11 +25,6 @@ The goal was to practice **adding images** from different sources and displaying
 
 ---
 
-## 📸 Screenshots
-blob:https://web.whatsapp.com/cf4c1f85-98d2-498a-9da6-10c68754e29f
-<br>
-blob:https://web.whatsapp.com/202687c6-9b5c-42c7-853b-db32d9bd8e2e
----
 
 ## 🏃 How to Run
 
@@ -53,4 +48,5 @@ npx expo start
 - [ ] Dark mode support
 - [ ] Upload images from camera
 - [ ] Improve modal animations
+
 
